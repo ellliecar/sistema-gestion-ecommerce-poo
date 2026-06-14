@@ -19,7 +19,7 @@ Desarrollar una capa de dominio robusta para un e-commerce, aplicando principios
 ## 🚀 Cómo Ejecutar
 ```bash
 # 1. Clonar
-git clone https://github.com/tu-usuario/sistema-gestion-ecommerce-poo.git
+git clone https://github.com/ellliecar/sistema-gestion-ecommerce-poo/blob/main/tsconfig.json
 cd sistema-gestion-ecommerce-poo
 
 # 2. Instalar dependencias
